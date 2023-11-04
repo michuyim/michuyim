@@ -1,0 +1,17 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# IDEs and editors
+.idea
+.project
+.classpath
+.c9/
+.settings/
+*.sublime-workspace
+
+# dotenv environment variables file
+.env
+.env.test
+.env.production
